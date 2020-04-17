@@ -6,7 +6,3 @@ setuptools
 Cython
 mock
 scipy
-google-api-python-client
-future
-pycocotools
-networkx
